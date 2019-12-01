@@ -32,7 +32,7 @@ export default class AxiosExample extends React.Component {
         const { isLoading, dataSource } = this.state;
         if (isLoading) {
             return (
-                <View style={{ flex: 1, padding: 20 }}>
+                <View style={{ flex: 1, padding: 20, alignItems: 'center', justifyContent: 'center' }}>
                     <ActivityIndicator />
                 </View>
             )

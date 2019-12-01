@@ -6,14 +6,17 @@ const Styles = StyleSheet.create({
     color: 'blue',
     fontWeight: 'bold',
     fontSize: 30,
+    paddingBottom:30
   },
   red: {
     color: 'red',
-    fontSize: 30
+    fontSize: 30,
+    paddingBottom:30
   },
   marginTen: {
     margin: 10
-  }
+  },
+
 });
 
 export default Styles;

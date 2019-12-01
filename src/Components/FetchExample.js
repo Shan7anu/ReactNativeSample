@@ -25,7 +25,7 @@ export default class FetchExample extends React.Component {
         const { isLoading, title, description, dataSource } = this.state;
         if (isLoading) {
             return (
-                <View style={{ flex: 1, padding: 20 }}>
+                <View style={{ flex: 1, padding: 20, alignItems: 'center', justifyContent: 'center' }}>
                     <ActivityIndicator />
                 </View>
             )
