@@ -1,25 +1,25 @@
 import React, { Component } from 'react';
 import { Text, View, Image, Button, FlatList } from 'react-native';
-import Greeting from './src/Components/Greeting';
-import Styles from './src/Styles/Styles';
-import HelloWorldApp from './src/Components/HellloWorldApp';
-import Bananas from './src/Components/Bananas';
-import LotsOfGreetings from './src/Components/LotsOfGreetings';
-import BlinkApp from './src/Components/BlinkApp';
-import LotsOfStyles from './src/Components/LotsOfStyles';
-import FixedDimensionsBasics from './src/Components/FixedDimensionsBasics';
-import FlexDimensionsBasics from './src/Components/FlexDimensionsBasics';
-import FlexDirectionBasics from './src/Components/FlexDirectionBasics';
-import JustifyContentBasics from './src/Components/JustifyContentBasics';
-import AlignItemsBasics from './src/Components/AlignItemsBasics';
-import PizzaTranslator from './src/Components/PizzaTranslator';
-import ButtonBasics from './src/Components/ButtonBasics';
-import Touchables from './src/Components/Touchables';
-import IScrolledDownAndWhatHappenedNextShockedMe from './src/Components/IScrolledDownAndWhatHappenedNextShockedMe';
-import FlatListBasics from './src/Components/FlatListBasics';
-import SectionListBasics from './src/Components/SectionListBasics';
-import FetchExample from './src/Components/FetchExample';
-import AxiosExample from './src/Components/AxiosExample';
+import Greeting from './Components/Greeting';
+import Styles from './Styles/Styles';
+import HelloWorldApp from './Components/HellloWorldApp';
+import Bananas from './Components/Bananas';
+import LotsOfGreetings from './Components/LotsOfGreetings';
+import BlinkApp from './Components/BlinkApp';
+import LotsOfStyles from './Components/LotsOfStyles';
+import FixedDimensionsBasics from './Components/FixedDimensionsBasics';
+import FlexDimensionsBasics from './Components/FlexDimensionsBasics';
+import FlexDirectionBasics from './Components/FlexDirectionBasics';
+import JustifyContentBasics from './Components/JustifyContentBasics';
+import AlignItemsBasics from './Components/AlignItemsBasics';
+import PizzaTranslator from './Components/PizzaTranslator';
+import ButtonBasics from './Components/ButtonBasics';
+import Touchables from './Components/Touchables';
+import IScrolledDownAndWhatHappenedNextShockedMe from './Components/IScrolledDownAndWhatHappenedNextShockedMe';
+import FlatListBasics from './Components/FlatListBasics';
+import SectionListBasics from './Components/SectionListBasics';
+import FetchExample from './Components/FetchExample';
+import AxiosExample from './Components/AxiosExample';
 export default class App extends Component {
     componentDidMount() {
     }
