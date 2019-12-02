@@ -57,3 +57,8 @@ buck-out/
 
 #  package-lock.json
 package-lock.json
+
+#Android Files
+.settings
+.project
+.classpath
